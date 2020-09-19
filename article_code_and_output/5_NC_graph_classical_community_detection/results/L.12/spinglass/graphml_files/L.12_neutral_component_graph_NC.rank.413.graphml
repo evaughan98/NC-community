@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="pos_y" attr.type="double" for="node" id="d1"/>
+<key attr.name="pos_x" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="10843785">
+  <data key="d0">1.22627250784</data>
+  <data key="d1">-0.787200481528</data>
+</node>
+<node id="6649481">
+  <data key="d0">1.01698258205</data>
+  <data key="d1">0.314531392337</data>
+</node>
+<node id="2455225">
+  <data key="d0">-2.0</data>
+  <data key="d1">1.2838915926</data>
+</node>
+<node id="15038089">
+  <data key="d0">0.137430995151</data>
+  <data key="d1">-1.05560233541</data>
+</node>
+<node id="2455177">
+  <data key="d0">-0.380686085042</data>
+  <data key="d1">0.244379832003</data>
+</node>
+<edge source="10843785" target="15038089"/>
+<edge source="10843785" target="6649481"/>
+<edge source="10843785" target="2455177"/>
+<edge source="6649481" target="15038089"/>
+<edge source="6649481" target="2455177"/>
+<edge source="2455225" target="2455177"/>
+<edge source="15038089" target="2455177"/>
+</graph></graphml>

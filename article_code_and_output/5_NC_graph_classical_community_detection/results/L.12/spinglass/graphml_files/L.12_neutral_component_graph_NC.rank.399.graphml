@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="pos_y" attr.type="double" for="node" id="d1"/>
+<key attr.name="pos_x" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="12864446">
+  <data key="d0">0.316320708171</data>
+  <data key="d1">-0.547618934864</data>
+</node>
+<node id="16010174">
+  <data key="d0">0.17823268415</data>
+  <data key="d1">1.20106506418</data>
+</node>
+<node id="281534">
+  <data key="d0">-1.11704416075</data>
+  <data key="d1">0.424619035395</data>
+</node>
+<node id="3427262">
+  <data key="d0">-1.0540362372</data>
+  <data key="d1">1.82527942479</data>
+</node>
+<node id="10767294">
+  <data key="d0">1.04907372402</data>
+  <data key="d1">-1.82297008628</data>
+</node>
+<node id="2378686">
+  <data key="d0">0.810497993492</data>
+  <data key="d1">0.474746318515</data>
+</node>
+<node id="14961598">
+  <data key="d0">1.99732876786</data>
+  <data key="d1">-0.444365061872</data>
+</node>
+<node id="13913022">
+  <data key="d0">1.81417869424</data>
+  <data key="d1">1.0464248369</data>
+</node>
+<node id="4475838">
+  <data key="d0">-1.8170847042</data>
+  <data key="d1">-1.05506949306</data>
+</node>
+<node id="5524414">
+  <data key="d0">-0.30152873052</data>
+  <data key="d1">0.536191161606</data>
+</node>
+<node id="6572990">
+  <data key="d0">-0.201928652498</data>
+  <data key="d1">-1.17711760266</data>
+</node>
+<node id="7621566">
+  <data key="d0">-2.0</data>
+  <data key="d1">0.474564975468</data>
+</node>
+<node id="8670142">
+  <data key="d0">-0.585994295184</data>
+  <data key="d1">-1.96968253095</data>
+</node>
+<node id="9718718">
+  <data key="d0">1.12382174619</data>
+  <data key="d1">-0.440606589192</data>
+</node>
+<node id="1330110">
+  <data key="d0">0.608925354979</data>
+  <data key="d1">1.9479924329</data>
+</node>
+<node id="11815870">
+  <data key="d0">-0.820762892764</data>
+  <data key="d1">-0.473452950881</data>
+</node>
+<edge source="12864446" target="16010174"/>
+<edge source="12864446" target="281534"/>
+<edge source="12864446" target="14961598"/>
+<edge source="12864446" target="8670142"/>
+<edge source="12864446" target="13913022"/>
+<edge source="12864446" target="4475838"/>
+<edge source="16010174" target="14961598"/>
+<edge source="16010174" target="3427262"/>
+<edge source="16010174" target="7621566"/>
+<edge source="16010174" target="13913022"/>
+<edge source="16010174" target="11815870"/>
+<edge source="281534" target="2378686"/>
+<edge source="281534" target="1330110"/>
+<edge source="281534" target="4475838"/>
+<edge source="281534" target="3427262"/>
+<edge source="281534" target="8670142"/>
+<edge source="3427262" target="2378686"/>
+<edge source="3427262" target="11815870"/>
+<edge source="3427262" target="7621566"/>
+<edge source="3427262" target="1330110"/>
+<edge source="10767294" target="14961598"/>
+<edge source="10767294" target="8670142"/>
+<edge source="10767294" target="11815870"/>
+<edge source="10767294" target="9718718"/>
+<edge source="10767294" target="2378686"/>
+<edge source="10767294" target="6572990"/>
+<edge source="2378686" target="14961598"/>
+<edge source="2378686" target="1330110"/>
+<edge source="2378686" target="6572990"/>
+<edge source="14961598" target="13913022"/>
+<edge source="14961598" target="6572990"/>
+<edge source="13913022" target="5524414"/>
+<edge source="13913022" target="1330110"/>
+<edge source="13913022" target="9718718"/>
+<edge source="4475838" target="7621566"/>
+<edge source="4475838" target="5524414"/>
+<edge source="4475838" target="8670142"/>
+<edge source="4475838" target="6572990"/>
+<edge source="5524414" target="7621566"/>
+<edge source="5524414" target="1330110"/>
+<edge source="5524414" target="6572990"/>
+<edge source="5524414" target="9718718"/>
+<edge source="6572990" target="7621566"/>
+<edge source="7621566" target="11815870"/>
+<edge source="8670142" target="11815870"/>
+<edge source="8670142" target="9718718"/>
+<edge source="9718718" target="11815870"/>
+<edge source="9718718" target="1330110"/>
+</graph></graphml>

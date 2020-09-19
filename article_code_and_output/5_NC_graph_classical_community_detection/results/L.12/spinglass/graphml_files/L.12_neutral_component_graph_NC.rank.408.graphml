@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="pos_y" attr.type="double" for="node" id="d1"/>
+<key attr.name="pos_x" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="5741163">
+  <data key="d0">-1.69630528549</data>
+  <data key="d1">0.0301383816569</data>
+</node>
+<node id="5724777">
+  <data key="d0">2.0</data>
+  <data key="d1">-0.000766117509436</data>
+</node>
+<node id="5724776">
+  <data key="d0">0.882137335738</data>
+  <data key="d1">1.45275582928</data>
+</node>
+<node id="5708393">
+  <data key="d0">0.81406558526</data>
+  <data key="d1">-1.48782321006</data>
+</node>
+<node id="5724779">
+  <data key="d0">0.389016962989</data>
+  <data key="d1">-0.524748119619</data>
+</node>
+<node id="5741160">
+  <data key="d0">-1.00550354676</data>
+  <data key="d1">1.7326238717</data>
+</node>
+<node id="5708392">
+  <data key="d0">-0.645935117378</data>
+  <data key="d1">-0.0681080233366</data>
+</node>
+<node id="5708395">
+  <data key="d0">-0.996178653271</data>
+  <data key="d1">-1.72958925656</data>
+</node>
+<node id="5741161">
+  <data key="d0">0.258702718913</data>
+  <data key="d1">0.595516644451</data>
+</node>
+<edge source="5741163" target="5741160"/>
+<edge source="5741163" target="5741161"/>
+<edge source="5741163" target="5708395"/>
+<edge source="5741163" target="5724779"/>
+<edge source="5724777" target="5724776"/>
+<edge source="5724777" target="5708393"/>
+<edge source="5724777" target="5724779"/>
+<edge source="5724777" target="5741161"/>
+<edge source="5724776" target="5741160"/>
+<edge source="5724776" target="5724779"/>
+<edge source="5724776" target="5708392"/>
+<edge source="5708393" target="5708392"/>
+<edge source="5708393" target="5708395"/>
+<edge source="5708393" target="5741161"/>
+<edge source="5724779" target="5708395"/>
+<edge source="5741160" target="5708392"/>
+<edge source="5741160" target="5741161"/>
+<edge source="5708392" target="5708395"/>
+</graph></graphml>

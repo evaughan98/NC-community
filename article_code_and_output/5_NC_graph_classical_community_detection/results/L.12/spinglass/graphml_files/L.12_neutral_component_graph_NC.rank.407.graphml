@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="pos_y" attr.type="double" for="node" id="d1"/>
+<key attr.name="pos_x" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="5626475">
+  <data key="d0">2.0</data>
+  <data key="d1">-0.13659873391</data>
+</node>
+<node id="5626409">
+  <data key="d0">-1.79999364863</data>
+  <data key="d1">0.0862841057636</data>
+</node>
+<node id="5626603">
+  <data key="d0">0.771054771054</data>
+  <data key="d1">-1.82713838605</data>
+</node>
+<node id="5626472">
+  <data key="d0">0.976652013614</data>
+  <data key="d1">1.74750268752</data>
+</node>
+<node id="5626473">
+  <data key="d0">0.408390674734</data>
+  <data key="d1">0.489022377986</data>
+</node>
+<node id="5626411">
+  <data key="d0">0.208244756668</data>
+  <data key="d1">-0.596661946147</data>
+</node>
+<node id="5626600">
+  <data key="d0">-0.579693027317</data>
+  <data key="d1">0.107860526127</data>
+</node>
+<node id="5626601">
+  <data key="d0">-1.06457332462</data>
+  <data key="d1">-1.46334889507</data>
+</node>
+<node id="5626408">
+  <data key="d0">-0.920082215501</data>
+  <data key="d1">1.59307826379</data>
+</node>
+<edge source="5626475" target="5626472"/>
+<edge source="5626475" target="5626473"/>
+<edge source="5626475" target="5626603"/>
+<edge source="5626475" target="5626411"/>
+<edge source="5626409" target="5626408"/>
+<edge source="5626409" target="5626601"/>
+<edge source="5626409" target="5626411"/>
+<edge source="5626409" target="5626473"/>
+<edge source="5626603" target="5626600"/>
+<edge source="5626603" target="5626601"/>
+<edge source="5626603" target="5626411"/>
+<edge source="5626472" target="5626408"/>
+<edge source="5626472" target="5626473"/>
+<edge source="5626472" target="5626600"/>
+<edge source="5626473" target="5626601"/>
+<edge source="5626411" target="5626408"/>
+<edge source="5626600" target="5626408"/>
+<edge source="5626600" target="5626601"/>
+</graph></graphml>
